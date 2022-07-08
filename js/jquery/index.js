@@ -8,11 +8,9 @@
 //   https://rapidapi.com/api4ai-api4ai-default/api/image-anonymization/details
 const MODE = 'demo'
 
-
 // Your RapidAPI key. Fill this variable with the proper value if you want
 // to try api4ai via RapidAPI marketplace.
 const RAPIDAPI_KEY = ''
-
 
 const OPTIONS = {
   demo: {

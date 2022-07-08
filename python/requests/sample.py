@@ -31,7 +31,7 @@ OPTIONS = {
         'headers': {'A4A-CLIENT-APP-ID': 'sample'}
     },
     'rapidapi': {
-        'url': f'https://image-anonymization.p.rapidapi.com/v1/results',
+        'url': 'https://image-anonymization.p.rapidapi.com/v1/results',
         'headers': {'X-RapidAPI-Key': RAPIDAPI_KEY}
     }
 }
@@ -64,7 +64,7 @@ if __name__ == '__main__':
     with open(path_to_image, 'wb') as img:
         img.write(base64.decodebytes(img_b64))
 
-    objects_pretty = json.dumps(response_entities[1]["objects"], indent=2)
+    objects_pretty = json.dumps(response_entities[1]['objects'], indent=2)
     print(f'💬 Hidden objects:\n{objects_pretty}\n')
 
     print(f'💬 The "result.{image_format}" image is saved to the current directory.')

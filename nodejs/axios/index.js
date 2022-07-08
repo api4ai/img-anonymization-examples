@@ -24,7 +24,7 @@ const OPTIONS = {
     headers: { 'A4A-CLIENT-APP-ID': 'sample' }
   },
   rapidapi: {
-    url: `https://image-anonymization.p.rapidapi.com/v1/results`,
+    url: 'https://image-anonymization.p.rapidapi.com/v1/results',
     headers: { 'X-RapidAPI-Key': RAPIDAPI_KEY }
   }
 }

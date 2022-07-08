@@ -1,14 +1,14 @@
 # API4AI Samples: Image Anonymization
 
 <div align="center">
-<a target="_blank" href="https://api4.ai?utm_source=imganonymization_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
+<a target="_blank" href="https://api4.ai?utm_source=img_anonymization_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
 </div>
 
 
 <div align="center">
-<a target="_blank" href="https://rapidapi.com/api4ai-api4ai-default/api/background-removal4/details"><img src="https://img.shields.io/badge/View%20on%20RapidAPI-gray?logo=octopusdeploy&style=for-the-badge"/></a>
-<a target="_blank" href="https://api4.ai/apis/bg-removal?utm_source=img_bg_removal_general_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://img.shields.io/badge/api4.ai%20platform-fee33c?style=for-the-badge&logo=icloud&logoColor=black"/></a>
-<a target="_blank" href="https://t.me/a4a_img_bg_removal_bot"><img src="https://img.shields.io/badge/-Telegram%20demo-ddd?logo=telegram&style=for-the-badge"/></a>
+<a target="_blank" href="https://rapidapi.com/api4ai-api4ai-default/api/image-anonymization/details"><img src="https://img.shields.io/badge/View%20on%20RapidAPI-gray?logo=octopusdeploy&style=for-the-badge"/></a>
+<a target="_blank" href="https://api4.ai/apis/img-anonymization?utm_source=img_anonymization_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://img.shields.io/badge/api4.ai%20platform-fee33c?style=for-the-badge&logo=icloud&logoColor=black"/></a>
+<a target="_blank" href="https://t.me/a4a_img_anonymization_bot"><img src="https://img.shields.io/badge/-Telegram%20demo-ddd?logo=telegram&style=for-the-badge"/></a>
 <br><br>
 <a target="_blank" href="https://www.instagram.com/api4ai"><img src="https://img.shields.io/badge/instagram--blue?style=social&logo=instagram"/></a>
 <a target="_blank" href="https://www.facebook.com/api4ai.solutions/"><img src="https://img.shields.io/badge/facebook--blue?style=social&logo=facebook"/></a>
@@ -26,7 +26,7 @@ The Image Anonymization API is as simple as it goes. It detects potential sensit
 You can use it in your image processing apps, social media apps and more.
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/visuals/img_anomymization_1.png"/>
+<img width="600" src="https://storage.googleapis.com/api4ai-static/rapidapi/img_anonymization_0.gif"/>
 </div>
 
 
@@ -41,8 +41,6 @@ This project run to help API users with ready-to-use examples in a set of the mo
   * [curl](./bash/curl)
 * `C#`:
   * [RestSharp](./csharp/restsharp)
-* `Swift`:
-  * [URLSession](./swift/urlsession)
 * `NodeJS`:
   * [Axios](./nodejs/axios)
 * `Javascript`:

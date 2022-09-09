@@ -46,7 +46,8 @@ if (image.includes('://')) {
 // Preapare request: headers.
 const headers = {
   ...OPTIONS[MODE].headers,
-  ...form.getHeaders()
+  ...form.getHeaders(),
+  'Content-Length': form.getLengthSync()
 }
 
 // Make request.

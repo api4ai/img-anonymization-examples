@@ -1,7 +1,7 @@
 # API4AI Samples: Image Anonymization
 
 <div align="center">
-<a target="_blank" href="https://api4.ai?utm_source=img_anonymization_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
+<a target="_blank" href="https://api4.ai?utm_source=img_anonymization_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://static.api4.ai/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
 </div>
 
 
@@ -26,7 +26,7 @@ The Image Anonymization API is as simple as it goes. It detects potential sensit
 You can use it in your image processing apps, social media apps and more.
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/rapidapi/img_anonymization_0.gif"/>
+<img width="600" src="https://static.api4.ai/rapidapi/img_anonymization_0.gif"/>
 </div>
 
 
